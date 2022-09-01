@@ -1,2 +1,4 @@
 https://www.mockaroo.com/
 to generate data faker
+playlist learn json server
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwhc9YZIdqNL5sWeTCGxF4ya
